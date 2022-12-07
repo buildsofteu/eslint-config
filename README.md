@@ -5,5 +5,5 @@ The base eslint config for JavaScript at BuildSoft.
 ## Installation
 
 ```
-npm i https://github.com/buildsofteu/eslint-config
+npm i --save-dev https://github.com/buildsofteu/eslint-config
 ```
